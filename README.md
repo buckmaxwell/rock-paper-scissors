@@ -21,7 +21,11 @@ matches.
 
 ## Expense travel
 
-If the players are
+Given a pair, Randomly select a 'traveling' player from the pair. If there is
+only one player in the pair, the player is not a traveling player. If the
+players are within walking distance travel budget is 0. If they are within
+driving distance, compensation should include a night in a hotel. If they need
+to take a plane, we will pay for the flight.
 
 
 
